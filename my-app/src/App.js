@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from '70741_kanye-west-png(1).png';
+import logo from './kanye.png';
 import './App.css';
 
 function App() {
